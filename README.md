@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Parvez2003
+- 👋 Hi, I’m @Parvez Memon
 - 👀 I’m interested in coding of all types
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on instagram 
-- 📫 How to reach me --- _Parvez_memon_ instagram
+- 📫 I'm on instagram as  _Parvez_memon_ 
 
 <!---
 Parvez2003/Parvez2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
